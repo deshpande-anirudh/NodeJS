@@ -1,3 +1,5 @@
+## Execution context and callstack at JavaScript
+
 ### What is execution context in Javascript or V8?
 
 In JavaScript, an execution context is an abstract concept that refers to the environment in which JavaScript code is evaluated and executed. It consists of three main components:
@@ -113,3 +115,8 @@ Understanding the call stack and execution context in Node.js is essential for w
 Remember, the `"main"` field in `package.json` specifies the entry point for your module in Node.js, and understanding its role can help you structure your projects effectively.
 
 I hope this article has provided you with a better understanding of the call stack and execution context in Node.js and how they relate to the `"main"` field in `package.json`. Happy coding!
+
+### tags:
+#NodeJS
+#NodeJSEventLoop
+#EventLoop
