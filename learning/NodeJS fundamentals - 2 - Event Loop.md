@@ -204,7 +204,6 @@ Explanation:
 - After `foo()`, `baz()` is called.
 - Eventually, after the specified time interval (500ms), the callback function from `setTimeout()` is executed.
 - The order of console output will be "First", "Third", and "Second", due to the asynchronous nature of `setTimeout()`.
-```
 
 ### How timer module works in NodeJS? 
 
